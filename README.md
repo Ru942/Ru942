@@ -1,30 +1,49 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Rupesh K R
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Frontend+Developer;Java+Developer;Android+Developer;.NET+MAUI+Developer;Always+Learning+New+Technologies" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C853,100:0D47A1&text=Rupesh%20K%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Android%20Developer%20%7C%20.NET%20MAUI&descAlignY=58"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Frontend+Developer;Android+Developer;Java+Programmer;.NET+MAUI+Developer;Building+Responsive+Websites;Always+Learning+New+Technologies+🚀" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Ru942&style=for-the-badge&color=brightgreen"/>
+
+<img src="https://img.shields.io/github/followers/Ru942?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/Ru942?style=for-the-badge&logo=github"/>
+
+</div>
 
 ---
 
-# 💫 About Me
+# 👋 About Me
 
-🚀 Passionate Software Developer from India
+💚 Passionate Software Developer from India
 
-💻 Interested in Web Development, Android Development and .NET MAUI
+💻 I enjoy building modern web applications and Android apps.
 
-🌱 Currently improving my JavaScript, Tailwind CSS and Full Stack Development skills
+🎯 My focus is writing clean, responsive, and user-friendly applications.
 
-📱 Love building responsive websites and mobile applications
+🌱 Currently learning
 
-🎯 Goal: Become a Full Stack Developer and contribute to real-world projects
+* Advanced JavaScript
+* React.js
+* Node.js
+* Full Stack Development
+
+⚡ Fun Fact
+
+> I enjoy turning ideas into real applications through code.
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -32,136 +51,120 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
-
----
-
-# 🌟 Portfolio Projects
-
-### 🌿 Greenden Website
-
-Responsive plant store built using HTML & Tailwind CSS.
-
-🔗 Live Demo:
-https://ru942.github.io/Greenden-Tailwind/
-
-🔗 Repository:
-https://github.com/Ru942/Greenden-Tailwind
-
----
-
-### ✅ Registration Form Validation
-
-HTML, CSS & JavaScript Form Validation
-
-Live Demo:
-https://ru942.github.io/Project2/
-
-Repository:
-https://github.com/Ru942/Project2
-
----
-
-### ✍ Character Counter
-
-Real-time character counting project using JavaScript.
-
-Live Demo:
-https://ru942.github.io/Project1/
-
-Repository:
-https://github.com/Ru942/Project1
 
 ---
 
 # 🚀 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,java,kotlin,cs,dotnet,androidstudio,sqlite,git,github,vscode,visualstudio"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,java,kotlin,cs,dotnet,androidstudio,sqlite,git,github,vscode,visualstudio,figma&perline=8"/>
 
-</p>
-
----
-
-# 💻 Currently Learning
-
-* Advanced JavaScript
-* React.js
-* Node.js
-* Full Stack Development
-* Data Structures & Algorithms
+</div>
 
 ---
 
-# 📈 GitHub Statistics
+# 📂 Featured Projects
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ru942&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ru942&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ru942&layout=compact&theme=tokyonight"/>
-
-</p>
+| Project                        | Description                               | Live                                       |
+| ------------------------------ | ----------------------------------------- | ------------------------------------------ |
+| 🌿 Greenden                    | Responsive Plant Store using Tailwind CSS | https://ru942.github.io/Greenden-Tailwind/ |
+| ✅ Registration Form Validation | JavaScript Form Validation                | https://ru942.github.io/Project2/          |
+| ✍ Character Counter            | Real-time Character Counter               | https://ru942.github.io/Project1/          |
 
 ---
 
-# 🛠️ Tools
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,figma"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ru942&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</p>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ru942&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ru942&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ru942&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ru942&theme=tokyonight&margin-w=15&margin-h=15&column=4"/>
 
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ru942&theme=tokyo-night"/>
-
-</p>
+</div>
 
 ---
 
-# 👀 Profile Views
+# 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Ru942&label=Profile%20Views&color=00C853&style=for-the-badge"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ru942&theme=tokyo-night&hide_border=true"/>
 
-</p>
-
----
-
-# ✨ Quote
-
-> "Code. Learn. Build. Repeat."
+</div>
 
 ---
 
-<p align="center">
+# ⚡ Coding Activity
 
-### ⭐ Thanks for visiting my profile!
+<div align="center">
 
-If you like my work, don't forget to ⭐ my repositories.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ru942&theme=tokyonight"/>
 
-</p>
+</div>
+
+---
+
+# 💻 Development Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ru942&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ru942&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ru942/Ru942/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+> **"First, solve the problem. Then, write the code."** — John Johnson
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ If you like my work, consider starring my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C853,100:0D47A1"/>
+
+</div>
