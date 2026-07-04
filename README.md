@@ -1,14 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00C853,100:0D47A1&text=Rupesh%20K%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20Android%20Developer%20|%20.NET%20MAUI%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:0D47A1&height=280&section=header&text=Rupesh%20K%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20Android%20Developer%20|%20.NET%20MAUI%20Developer&descAlignY=58"/>
 
-# Hi 👋 I'm Rupesh K R
+<h1>Hi 👋, I'm Rupesh K R</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C853&center=true&vCenter=true&width=850&lines=Frontend+Developer;Android+Developer;Java+Developer;.NET+MAUI+Developer;Passionate+about+Building+Responsive+Applications;Always+Learning+New+Technologies+🚀" />
+<p>
+Frontend Developer • Android Developer • .NET MAUI Developer
+</p>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Frontend+Developer;Android+Developer;.NET+MAUI+Developer;Java+Programmer;Always+Learning+New+Technologies🚀" />
 
-<img src="https://komarev.com/ghpvc/?username=Ru942&label=Profile%20Views&color=00C853&style=for-the-badge"/>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Ru942&label=Profile+Views&color=00C853&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/Ru942?style=for-the-badge&logo=github"/>
 
@@ -20,20 +24,11 @@
 
 # 💫 About Me
 
-💚 Passionate Software Developer from India
-
-💻 Frontend Developer | Android Developer | .NET MAUI Developer
-
-🌱 Currently Learning
-
-- JavaScript ES6+
-- React.js
-- Node.js
-- Full Stack Development
-
-🎯 Goal
-
-Build high-quality web and mobile applications that solve real-world problems.
+- 💻 Frontend Developer passionate about creating responsive and modern websites.
+- 📱 Android Developer with experience in Kotlin and Java.
+- ⚙️ Experienced in .NET MAUI mobile application development.
+- 🌱 Currently learning **React.js**, **Node.js**, and **Full Stack Development**.
+- 🎯 Goal: Build scalable web and mobile applications.
 
 ---
 
@@ -59,11 +54,11 @@ Build high-quality web and mobile applications that solve real-world problems.
 
 # 🚀 Tech Stack
 
-<div align="center">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,java,kotlin,cs,dotnet,androidstudio,sqlite,git,github,vscode,visualstudio,figma&perline=8"/>
 
-</div>
+</p>
 
 ---
 
@@ -71,77 +66,89 @@ Build high-quality web and mobile applications that solve real-world problems.
 
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
-| 🌿 Greenden | Responsive Plant Store built with Tailwind CSS | https://ru942.github.io/Greenden-Tailwind/ |
-| ✅ Registration Form Validation | HTML, CSS & JavaScript Form Validation | https://ru942.github.io/Project2/ |
-| ✍ Character Counter | Real-Time Character Counter | https://ru942.github.io/Project1/ |
+| 🌿 **Greenden** | Responsive Plant Store built using Tailwind CSS | https://ru942.github.io/Greenden-Tailwind/ |
+| ✅ **Registration Form Validation** | Form Validation using HTML, CSS & JavaScript | https://ru942.github.io/Project2/ |
+| ✍ **Character Counter** | Real-time Character Counter using JavaScript | https://ru942.github.io/Project1/ |
 
 ---
 
 # 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ru942&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ru942&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=Ru942&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=Ru942&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
-<br>
+<p align="center">
 
-<div align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ru942&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ru942&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ru942&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
-
-</div>
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ru942&theme=tokyo-night&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 📊 GitHub Summary
+# 📋 GitHub Summary
 
-<div align="center">
+<p align="center">
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ru942&theme=tokyonight"/>
 
-</div>
+</p>
 
 ---
 
 # 💻 Repository Statistics
 
-<div align="center">
+<p align="center">
 
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ru942&theme=tokyonight"/>
 
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ru942&theme=tokyonight"/>
 
-</div>
+</p>
 
 ---
 
-# ⚡ Fun Fact
+# 🛠️ Development Tools
 
-> "First, solve the problem. Then, write the code."
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,figma,postman"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 🚀 React.js
+- ⚛️ JavaScript ES6+
+- 🌐 Responsive Web Design
+- 📱 Android Development
+- 💼 Building Portfolio Projects
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+### "Code. Learn. Build. Repeat."
+
+</div>
 
 ---
 
@@ -149,8 +156,8 @@ Build high-quality web and mobile applications that solve real-world problems.
 
 ## ⭐ Thanks for visiting my profile!
 
-If you like my projects, consider giving them a ⭐.
+If you like my work, don't forget to ⭐ my repositories.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C853,100:0D47A1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:0D47A1&height=120&section=footer"/>
 
 </div>
