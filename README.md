@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C853,100:0D47A1&text=Rupesh%20K%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Android%20Developer%20%7C%20.NET%20MAUI&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00C853,100:0D47A1&text=Rupesh%20K%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20Android%20Developer%20|%20.NET%20MAUI%20Developer&descAlignY=60"/>
+
+# Hi 👋 I'm Rupesh K R
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C853&center=true&vCenter=true&width=850&lines=Frontend+Developer;Android+Developer;Java+Developer;.NET+MAUI+Developer;Passionate+about+Building+Responsive+Applications;Always+Learning+New+Technologies+🚀" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Frontend+Developer;Android+Developer;Java+Programmer;.NET+MAUI+Developer;Building+Responsive+Websites;Always+Learning+New+Technologies+🚀" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Ru942&style=for-the-badge&color=brightgreen"/>
+<img src="https://komarev.com/ghpvc/?username=Ru942&label=Profile%20Views&color=00C853&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/Ru942?style=for-the-badge&logo=github"/>
 
@@ -18,24 +18,22 @@
 
 ---
 
-# 👋 About Me
+# 💫 About Me
 
 💚 Passionate Software Developer from India
 
-💻 I enjoy building modern web applications and Android apps.
+💻 Frontend Developer | Android Developer | .NET MAUI Developer
 
-🎯 My focus is writing clean, responsive, and user-friendly applications.
+🌱 Currently Learning
 
-🌱 Currently learning
+- JavaScript ES6+
+- React.js
+- Node.js
+- Full Stack Development
 
-* Advanced JavaScript
-* React.js
-* Node.js
-* Full Stack Development
+🎯 Goal
 
-⚡ Fun Fact
-
-> I enjoy turning ideas into real applications through code.
+Build high-quality web and mobile applications that solve real-world problems.
 
 ---
 
@@ -52,7 +50,7 @@
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -69,23 +67,23 @@
 
 ---
 
-# 📂 Featured Projects
+# 🌟 Featured Projects
 
-| Project                        | Description                               | Live                                       |
-| ------------------------------ | ----------------------------------------- | ------------------------------------------ |
-| 🌿 Greenden                    | Responsive Plant Store using Tailwind CSS | https://ru942.github.io/Greenden-Tailwind/ |
-| ✅ Registration Form Validation | JavaScript Form Validation                | https://ru942.github.io/Project2/          |
-| ✍ Character Counter            | Real-time Character Counter               | https://ru942.github.io/Project1/          |
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| 🌿 Greenden | Responsive Plant Store built with Tailwind CSS | https://ru942.github.io/Greenden-Tailwind/ |
+| ✅ Registration Form Validation | HTML, CSS & JavaScript Form Validation | https://ru942.github.io/Project2/ |
+| ✍ Character Counter | Real-Time Character Counter | https://ru942.github.io/Project1/ |
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ru942&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ru942&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ru942&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=Ru942&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -93,7 +91,7 @@
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ru942&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ru942&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -103,7 +101,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ru942&theme=tokyonight&margin-w=15&margin-h=15&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ru942&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
 
 </div>
 
@@ -119,51 +117,39 @@
 
 ---
 
-# ⚡ Coding Activity
+# 📊 GitHub Summary
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ru942&theme=tokyonight"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ru942&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 💻 Development Metrics
+# 💻 Repository Statistics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ru942&theme=tokyonight"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ru942&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ru942&theme=tokyonight"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ru942&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# ⚡ Fun Fact
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ru942/Ru942/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 💡 Quote
-
-<div align="center">
-
-> **"First, solve the problem. Then, write the code."** — John Johnson
-
-</div>
+> "First, solve the problem. Then, write the code."
 
 ---
 
 <div align="center">
 
-## ⭐ If you like my work, consider starring my repositories!
+## ⭐ Thanks for visiting my profile!
+
+If you like my projects, consider giving them a ⭐.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C853,100:0D47A1"/>
 
