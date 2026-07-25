@@ -1,16 +1,15 @@
+````markdown
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:0D47A1&height=280&section=header&text=Rupesh%20K%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20Android%20Developer%20|%20.NET%20MAUI%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:0D47A1&height=280&section=header&text=Rupesh%20K%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20React%20Developer%20|%20.NET%20MAUI%20Developer&descAlignY=58"/>
 
-<h1>Hi 👋, I'm Rupesh K R</h1>
+# Hi there, I'm Rupesh K R 👋
 
-<p>
-Frontend Developer • Android Developer • .NET MAUI Developer
-</p>
+### Frontend Developer • React Developer • Android Developer • .NET MAUI Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Frontend+Developer;Android+Developer;.NET+MAUI+Developer;Java+Programmer;Always+Learning+New+Technologies🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+Developer;Android+Developer;.NET+MAUI+Developer;Full+Stack+Developer+in+Progress;Always+Learning+New+Technologies+🚀"/>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Ru942&label=Profile+Views&color=00C853&style=for-the-badge"/>
 
@@ -24,11 +23,13 @@ Frontend Developer • Android Developer • .NET MAUI Developer
 
 # 💫 About Me
 
-- 💻 Frontend Developer passionate about creating responsive and modern websites.
-- 📱 Android Developer with experience in Kotlin and Java.
-- ⚙️ Experienced in .NET MAUI mobile application development.
-- 🌱 Currently learning **React.js**, **Node.js**, and **Full Stack Development**.
-- 🎯 Goal: Build scalable web and mobile applications.
+- 💻 Passionate Frontend Developer who loves building responsive and interactive websites.
+- ⚛️ Currently building modern applications using React.js.
+- 📱 Android Developer with experience in Java and Kotlin.
+- ⚙️ .NET MAUI Developer for cross-platform mobile applications.
+- 🌱 Learning Full Stack Development (React + Node.js).
+- 🎯 Goal: Become a Full Stack Software Engineer.
+- 🚀 Always excited to learn new technologies and solve real-world problems.
 
 ---
 
@@ -56,19 +57,32 @@ Frontend Developer • Android Developer • .NET MAUI Developer
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,java,kotlin,cs,dotnet,androidstudio,sqlite,git,github,vscode,visualstudio,figma&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,java,kotlin,cs,dotnet,androidstudio,sqlite,git,github,vscode,visualstudio,figma,postman&perline=6"/>
 
 </p>
 
 ---
 
-# 🌟 Featured Projects
+# ⚛️ React Projects
 
 | Project | Description | Live Demo |
-|---------|-------------|-----------|
-| 🌿 **Greenden** | Responsive Plant Store built using Tailwind CSS | https://ru942.github.io/Greenden-Tailwind/ |
-| ✅ **Registration Form Validation** | Form Validation using HTML, CSS & JavaScript | https://ru942.github.io/Project2/ |
-| ✍ **Character Counter** | Real-time Character Counter using JavaScript | https://ru942.github.io/Project1/ |
+|--------|--------|--------|
+| 🎨 Dynamic Gallery | Responsive React Image Gallery using reusable components and modern UI. | YOUR_LIVE_LINK |
+| 🚀 More Projects Coming Soon | Currently building exciting React applications. | Coming Soon |
+
+---
+
+# 🌟 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|--------|--------|
+| 🎬 MovieFlix (Netflix Clone) | Netflix-inspired movie website using TMDB API, trailer support, profiles and My List functionality. | HTML, CSS, JavaScript, API |
+| 🌿 Greenden | Responsive Plant Store Website. | Tailwind CSS |
+| 🌍 Globe Buddy | TripAdvisor Clone Website. | HTML, CSS |
+| 🎓 Udemy Clone | Responsive Udemy UI Clone. | HTML & CSS |
+| 🎨 Dynamic Gallery | React-based Image Gallery Application. | React.js |
+| ✅ Registration Form Validation | JavaScript Form Validation Project. | HTML, CSS, JS |
+| ✍ Character Counter | Real-time Character Counter. | JavaScript |
 
 ---
 
@@ -100,7 +114,7 @@ Frontend Developer • Android Developer • .NET MAUI Developer
 
 ---
 
-# 📋 GitHub Summary
+# 📋 GitHub Summary Cards
 
 <p align="center">
 
@@ -110,7 +124,7 @@ Frontend Developer • Android Developer • .NET MAUI Developer
 
 ---
 
-# 💻 Repository Statistics
+# 🏆 Repository Statistics
 
 <p align="center">
 
@@ -122,7 +136,7 @@ Frontend Developer • Android Developer • .NET MAUI Developer
 
 ---
 
-# 🛠️ Development Tools
+# 🛠 Development Tools
 
 <p align="center">
 
@@ -134,30 +148,72 @@ Frontend Developer • Android Developer • .NET MAUI Developer
 
 # 🎯 Current Focus
 
-- 🚀 React.js
-- ⚛️ JavaScript ES6+
+- ⚛️ React.js
+- 🚀 Full Stack Development
 - 🌐 Responsive Web Design
+- 🖥️ .NET MAUI Development
 - 📱 Android Development
-- 💼 Building Portfolio Projects
+- 🔥 Building Real World Projects
+- 📚 Data Structures & Algorithms
 
 ---
 
-# 💡 Quote
+# 📚 Currently Learning
+
+- React.js
+- Node.js
+- JavaScript ES6+
+- REST APIs
+- Full Stack Development
+- Git & GitHub Best Practices
+
+---
+
+# 🏅 Achievements
+
+- Built Multiple Responsive Web Projects.
+- Developing React Applications.
+- Experienced in Android Development.
+- Passionate about Problem Solving.
+- Continuously Learning Modern Technologies.
+
+---
+
+# 💡 Developer Quote
 
 <div align="center">
 
 ### "Code. Learn. Build. Repeat."
 
+#### "Every expert was once a beginner who never stopped learning."
+
 </div>
+
+---
+
+# 🔥 Fun Fact
+
+```javascript
+const rupesh = {
+    code: ["HTML", "CSS", "JavaScript", "React", "Java", "Kotlin"],
+    tools: ["VS Code", "Git", "GitHub", "Figma"],
+    learning: ["React", "Node.js", "Full Stack Development"],
+    challenge: "Building something new every day!",
+};
+
+console.log("Keep Coding 🚀");
+```
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for Visiting My Profile!
 
-If you like my work, don't forget to ⭐ my repositories.
+### If you like my work, don't forget to star my repositories.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:0D47A1&height=120&section=footer"/>
 
 </div>
+
+````
